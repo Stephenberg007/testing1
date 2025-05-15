@@ -7,6 +7,11 @@
 
 
 
+
 void m2(){
 System.out.println("new method");
+
+void m1(){
+System.out.println("I am working on JIRA-101");
+
 }
